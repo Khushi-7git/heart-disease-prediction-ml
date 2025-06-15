@@ -68,4 +68,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 👤 Author
 Khushi Kumari
+----
+## ⭐ Support
+
+If you find this project helpful or interesting, please consider giving it a ⭐ on GitHub 
+
 
